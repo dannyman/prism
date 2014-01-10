@@ -9,10 +9,10 @@ Installation:
 Library for storing and photos, similar to Flickr.
 
 This is way early days, but I'm thinking:
-0) Storage backend!?
-1) Set up modules for stuff like Photo, Set, Collection ...
-2) Implement basic view via templates
-3) Support Flickr API ...
+- [ ] Storage backend!?
+- [ ] Set up modules for stuff like Photo, Set, Collection ...
+- [ ] Implement basic view via templates
+- [ ] Support Flickr API ...
 
 From there, you have a basic front-end and could even maybe use some
 Flickr uploader tools to do management.  THEN you tackle the different
