@@ -2,9 +2,11 @@ prism
 =====
 
 Installation:
+```
  git clone https://github.com/dannyman/prism
  cd prism
  wget http://bottlepy.org/bottle.py
+```
 
 Library for storing and photos, similar to Flickr.
 
